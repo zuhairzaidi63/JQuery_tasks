@@ -14,6 +14,15 @@ input[type="password"]{
         border: 1px solid #d7d6d6;
         box-sizing: border-box;
 }
+input[type="email"],
+input[type="number"]{
+        width: 100%;
+        padding: 10px;
+        margin: 5px 0;
+        border-radius: 3px;
+        border: 1px solid #d7d6d6;
+        box-sizing: border-box;
+}
 input[type="submit"] {
     width: 100%;
     background-color: #4CAF50;
